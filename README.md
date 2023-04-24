@@ -1,2 +1,2 @@
 # DuplicateComments
-Include comments when duplicating a task to another project
+Include comments when duplicating a kanboard task to another project
